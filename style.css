@@ -29,3 +29,16 @@
 .contact_1 h3 {
     display: inline;
 }
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.travel-maindiv {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7; 
+}
