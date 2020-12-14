@@ -19,3 +19,13 @@
 .movie-text span {
     color: #ff7700;
 }
+
+#map {
+    width: 50%;
+    float: left;
+    margin-right: 30px;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
